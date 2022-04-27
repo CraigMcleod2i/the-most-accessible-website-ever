@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/the-most-accessible-website-ever/static/css/main.7576eec3.css",
+    "main.js": "/the-most-accessible-website-ever/static/js/main.a5b65bbf.js",
+    "static/js/787.c88e9844.chunk.js": "/the-most-accessible-website-ever/static/js/787.c88e9844.chunk.js",
+    "static/media/dog.png": "/the-most-accessible-website-ever/static/media/dog.2c41371c3e0321da0048.png",
+    "static/media/logo.svg": "/the-most-accessible-website-ever/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/the-most-accessible-website-ever/index.html",
+    "main.7576eec3.css.map": "/the-most-accessible-website-ever/static/css/main.7576eec3.css.map",
+    "main.a5b65bbf.js.map": "/the-most-accessible-website-ever/static/js/main.a5b65bbf.js.map",
+    "787.c88e9844.chunk.js.map": "/the-most-accessible-website-ever/static/js/787.c88e9844.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7576eec3.css",
+    "static/js/main.a5b65bbf.js"
+  ]
+}
